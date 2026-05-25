@@ -1,0 +1,8 @@
+{
+    "name": "apputils-service",
+    "version": "1.0.458",
+    "private": false,
+    "environment": "production",
+    "build_id": 157,
+    "allow_public_access": true
+}
